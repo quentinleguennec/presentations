@@ -1,4 +1,3 @@
-# VR for Google Cardboard in Unity
-## *Challenges and opportunities*
+# Tengio VR architecture solution
 
-Presentation for Droidcon London 2016.
+Pitch for Apps World 2016.
