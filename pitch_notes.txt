@@ -2,7 +2,7 @@ Pitch:
 ------
 Looking for a mentor in the construction industry to help us push the project forward.
 
-Hi, I'm Quentin from Tengio. We are a mobile and VR consultancy and we are currently working on a full suite of virtual reality tools and services for architects property developers.
+Hi, I'm Quentin from Tengio. We are a mobile and VR consultancy and we are currently working on a full suite of virtual reality tools and services for architects and property developers.
 ???
 The power of virtual reality lies in it's capability to completely immerse someone in a univers that does not exists. And The work of an architect is to design places that does not yet exist.
 Now this is a difficult	exercise, and even with years of training it's hard to fully visualize what a room will look like by just reading the plans. Not to speak of a whole building...
@@ -34,8 +34,8 @@ The issue
 	And even if you use a virtual 3D model you are still missing something esential that a computer screen just can't gives you: a sense of dimensions.
 	This makes it very difficult for architects to explain to their clients what the final project will really looks like. 
 	And it has two costs: 
-		- First is the time and money you spend trying to explain your vision with tools that are not adapted for the task.
-		- And second is the cost of error, because the final building is not exactly has you pictured it, or because it's not as your client pictured it.
+		- First is the time and money they spend trying to explain their vision with tools that are not adapted for the task.
+		- And second is the cost of error, because the final building is not exactly as the architect pictured it, or because it's not what the client expected.
 		"The mean direct and indirect costs for design errors were revealed to be 6.85 and 7.36% of contract value, respectively."
 	Fixing those issues after is a lot more expensive than detecting them before.
 	The services we are providing not only cut those costs, it's also vastly facilitate the communication with the client.
@@ -47,9 +47,9 @@ The solution:
 	
 	  
 	We are right in the middle.
-	The architect gives us his 3D model and we transform it into a rich colorful VR experience. 
+	The architect gives us his 3D model and we transform it into a rich, colorful and immersive VR experience. 
 	Once we are done you just have to put your headset on and you can see the place as it will be.
-	This way the architect can verify that his creation match is expectations and clients can see clearly what they are buying, as if they were there.
+	This way the architect can verify that his creation match is expectations and clients can see clearly what they are buying.
 	And we can offer much more, like analytics: what is the client looking at? Where does he instinctly go to? Which path does he take? 
 	For projects like commercial centers this kind of information is very valuable, because it tells you which shops people are more likely to visit.
 	(eletric plugs)
@@ -61,9 +61,8 @@ The market
 	“UK to spend US$6.2 trillion on construction cumulatively by 2030”
 	We have be demoing our product to architects and they all were very excited by the possibilities it offers, both to help them in there design process and to facilitate the communication with there clients.
 End
-	We are still looking for more contacts in the property developement business and are looking for a mentor.
 	We are looking for a mentor to help us find more contacts in the property developement business, so if you have any leads...
-	Thak you for your atention.
+	Thank you for your attention.
 	
 Global Construction 2030
 Design Error Costs in Construction Projects, Robert Lopez and Peter E. D. Love
