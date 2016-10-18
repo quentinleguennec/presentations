@@ -36,10 +36,16 @@ The issue
 	And it has two costs: 
 		- First is the time and money you spend trying to explain your vision with tools that are not adapted for the task.
 		- And second is the cost of error, because the final building is not exactly has you pictured it, or because it's not as your client pictured it.
-	(Fixing issues after is a lot more expensive than detecting them before).
+		"The mean direct and indirect costs for design errors were revealed to be 6.85 and 7.36% of contract value, respectively."
+	Fixing those issues after is a lot more expensive than detecting them before.
 	The services we are providing not only cut those costs, it's also vastly facilitate the communication with the client.
 The solution: 
 	An architect designs places that don't yet exist, and virtual reality immerses you completely in a univers that does not exists.
+	So if you combine the both of them you get... well okay, maybe not the holodeck from Startrek... yet
+	But you will be inside the room, you will look around and see things as the architect meant them. 
+	And you will have no trouble to understand the dimensions, because you will see them the way you always do, the way you are use to.
+	
+	  
 	We are right in the middle.
 	The architect gives us his 3D model and we transform it into a rich colorful VR experience. 
 	Once we are done you just have to put your headset on and you can see the place as it will be.
@@ -48,12 +54,20 @@ The solution:
 	For projects like commercial centers this kind of information is very valuable, because it tells you which shops people are more likely to visit.
 	(eletric plugs)
 The market
-	Construction is a very big market (numbers) and there will always be demand in this sector.
+	Construction is a very big market, it as been growing fast in the past decades, and it's expected to keep growing in the next to come.
+	
+	“The global (construction) market is forecast to grow 85% to $17.5 trillion (...) by 2030.”
+	“UK needs to build 3.3 million houses over the next 15 years to meet needs of growing population”
+	“UK to spend US$6.2 trillion on construction cumulatively by 2030”
 	We have be demoing our product to architects and they all were very excited by the possibilities it offers, both to help them in there design process and to facilitate the communication with there clients.
 End
 	We are still looking for more contacts in the property developement business and are looking for a mentor.
+	We are looking for a mentor to help us find more contacts in the property developement business, so if you have any leads...
+	Thak you for your atention.
 	
-
+Global Construction 2030
+Design Error Costs in Construction Projects, Robert Lopez and Peter E. D. Love
+http://fortune.com/2015/08/25/mccarthy-construction-vr/
 
 
 a) The problem your product solves or how it improves peoples’ situation (not the technology per se)
