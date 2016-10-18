@@ -1,0 +1,61 @@
+Pitch:
+------
+Looking for a mentor in the construction industry to help us push the project forward.
+
+Hi, I'm Quentin from Tengio. We are a mobile and VR consultancy and we are currently working on a full suite of virtual reality tools and services for architects property developers.
+???
+The power of virtual reality lies in it's capability to completely immerse someone in a univers that does not exists. And The work of an architect is to design places that does not yet exist.
+Now this is a difficult	exercise, and even with years of training it's hard to fully visualize what a room will look like by just reading the plans. Not to speak of a whole building...
+This makes it very difficult for architects to explain to their clients what the final project will really looks like. 
+And it has two costs: the time you spend trying to explain with tools that are not adapted for the task and the cost of error, because the final building is not exactly has either the architect or its client pictured it.
+The services we are providing not only cut those costs, it's also vastly facilitate the communication with the client.
+
+And even if you use a virtual 3D model you are still missing something that a computer screen just can't gives you: a sense of dimensions.
+And that's where virtual reality is a game changer.
+We can take the 3D model and transform it into a rich colorful VR experience. You just have to put your headset on and you can see the place as it will be. 
+
+
+1. presentation: me, tengio, project outline (short)
+2. the issue: 
+3 the solution
+3-4: analytics
+4. Big demand, 
+Every architect we shown our demo to was very excited by the possibilities it offers, both to help them in there design process and to facilitate the communication with there clients.
+4. competitors? 
+5. (or 0.???) looking for a mentor.
+
+
+Introduction
+	Hi, I'm Quentin from Tengio. We are a mobile and VR consultancy and we are currently working on a full suite of virtual reality tools and services for architects and property developers.
+The issue
+	The work of an architect is to design and visualize places that don't exist.
+	This is a difficult	exercise, and even with years of training it's hard to fully visualize what a room will look like by just reading the plans. 
+	(Not to speak of a whole building...)
+	And even if you use a virtual 3D model you are still missing something esential that a computer screen just can't gives you: a sense of dimensions.
+	This makes it very difficult for architects to explain to their clients what the final project will really looks like. 
+	And it has two costs: 
+		- First is the time and money you spend trying to explain your vision with tools that are not adapted for the task.
+		- And second is the cost of error, because the final building is not exactly has you pictured it, or because it's not as your client pictured it.
+	(Fixing issues after is a lot more expensive than detecting them before).
+	The services we are providing not only cut those costs, it's also vastly facilitate the communication with the client.
+The solution: 
+	An architect designs places that don't yet exist, and virtual reality immerses you completely in a univers that does not exists.
+	We are right in the middle.
+	The architect gives us his 3D model and we transform it into a rich colorful VR experience. 
+	Once we are done you just have to put your headset on and you can see the place as it will be.
+	This way the architect can verify that his creation match is expectations and clients can see clearly what they are buying, as if they were there.
+	And we can offer much more, like analytics: what is the client looking at? Where does he instinctly go to? Which path does he take? 
+	For projects like commercial centers this kind of information is very valuable, because it tells you which shops people are more likely to visit.
+	(eletric plugs)
+The market
+	Construction is a very big market (numbers) and there will always be demand in this sector.
+	We have be demoing our product to architects and they all were very excited by the possibilities it offers, both to help them in there design process and to facilitate the communication with there clients.
+End
+	We are still looking for more contacts in the property developement business and are looking for a mentor.
+	
+
+
+
+a) The problem your product solves or how it improves peoples’ situation (not the technology per se)
+b) The specific, quantified benefits it brings
+c) The reason why people will buy your product rather than a competitor
