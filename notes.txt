@@ -107,9 +107,12 @@ User interface:
 			And scale it proportionally of course :p
 		Diegetic:
 			Your UI is part of the world (a clock, a TV screen...) 
+			If you do it well it can make the game even more immersive!
 			
 			
 Single button controller:
+	
+
 Future of VR?:	
 			
 			
