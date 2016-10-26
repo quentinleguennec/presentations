@@ -50,6 +50,7 @@ Now let's speak about VR:
 		And there the cover of the time 2015, and whoever designed this cover was clearly in lack of imagination.
 		But as the evolution of VR shown us, we can makes things a lot better. 
 		And a lot cooler.
+		VR has been evolving for years, and their is no reason it should not keep evolving in the future.
 	- why VR?
 		If I could only give one reason it would be the following: because it's awesome! 
 		But also because it allows a whole new level of immersion, and with it we can do things that we simply couldn't do before. 
@@ -74,7 +75,8 @@ Now let's see why Cardboard and why Unity?
 	The documentation is great, the tutorials are awesome and the tool itself very powerful. 
 	One more important point: both Unreal Engine and Unity are free to use (until you want to monetize your apps).
 	
-	By the way, this is the Plastic Cardboard, which is Google brand new "actual reality" headset. They made an interesting video about it if you want to check.
+	By the way, this is the Plastic Cardboard, which is the brand new "actual reality" headset that Google released the first of April. 
+	They made an interesting video about it if you want to check.
 	
 * MUST KNOW *
 Let's go into the heart of the subject: What do you need to know before you start?
@@ -90,6 +92,7 @@ Let's go into the heart of the subject: What do you need to know before you star
 	Only after you've made your way through this dangerous path will you become this (yoda). 
 	And by this I don't mean small and green but a master jedi of VR!
 	Which, by any standard, rocks hard!
+	So don't give up yet!
 	
 Cybersickness: 
 	Any new world has its share of danger, that's part of what makes it exciting! 
@@ -104,6 +107,7 @@ Cybersickness:
 	In a real roller coaster you are shaken up and subject to high accelerations, that's what makes people ill. 
 	But with the VR roller coaster you are just sitting there, relaxed, no acceleration, no shaking, you are not moving at all. 
 	It's the other way around, Your eyes tell to your brain that you are moving, but your body tells "nope, just chillin' in the sofa!".
+	And this conflict between your senses induce cybersickness.
 	Sensibility to VR sickness vary greatly between individuals, from what I saw people that are use to play video games are less subject to it. 
 	Also, from what I experienced, it seems that VR sickness is deeply linked to the perception of self. I will go back on this later.
 
@@ -141,7 +145,7 @@ Walk arounds:
 		This is a very interesting idea we are exploring right now at Tengio:
 		Cybersickness seems deeply link to the perception of self. 
 		When something happens that breaks the illusion your brain is confused because he think that something unusual happened to you. And it makes you feel sick.
-		Maybe it's possible to reduce or remove the sickness by having the user understand that's it's not his body in the virtual world.
+		Maybe it's possible to reduce or remove the sickness by having the user understand that's it's not its body in the virtual world.
 		This way, if something unusual or unexpected happen to is virtual avatar he will not fell sick because he will understand 
 		that it didn't actually happened to him, but to something else he is observing.
 		A colleague and I are working on a project to test this hypothesis. 
@@ -212,6 +216,8 @@ Cute kitten:
 		So, let's find them!
 
 		Thank you for your attention.
+		For those that are interested I started to write a serie of blog posts on VR with cardboard and Unity. 
+		There are 2 of them so far and I plan to add more in the future.
             
     Ref:
     https://www.google.com/get/cardboard/plastic/
