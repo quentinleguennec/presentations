@@ -11,9 +11,9 @@ plan
 
 
 * TITLE* 
-Hi everyone! I'm Quentin form Tengio. 
+Hi everyone! I'm Quentin from Tengio. 
 This talk will be a quick introduction to VR and a short tutorial on what you need to know to start creating VR apps for Google Cardboard using Unity.
-Quickly my VR background: I started playing around with VR about 7 months ago, and I started with the cardboard and Unity SDK. 
+Quickly my VR background: I started playing around with VR about 7 months ago with the cardboard and Unity SDK. 
 Since I have been attending meetups and reading everything I could find about VR, I've also created apps for different headsets like the GearVR or the Oculus Rift. 
 And now I want to share back with the community the knowledge I've gathered so far. 
 
@@ -24,22 +24,24 @@ Here are the points we will try to cover.
 Then I will explained why I started doing VR with Cardboard and Unity and why Cardboard is very interesting for VR.
 After that we will dive in the heart of the subject with the "things you need to know to do (good) VR apps"
 Then we will quickly reflect on what the future may hold for VR.
-And finally, has every good presentation should, we will finish by a picture of a cute kitten.
+And finally, as every good presentation should, we will finish by a picture of a cute kitten.
 
 
 * 5 W'S *
 Now let's speak about VR: 
 	- What is VR? 
-		VR is an experience in which you trick the user senses in believing he is somewhere else. 
-		It can be, sight, smell, sounds... and also life like interactions with the simulated environment.
+		VR is an experience in which you trick the users senses in believing they are somewhere else. 
+		It can be, sight, smell, sounds... and even touch. Even if we are not yet there.
 	- Which industries will benefit most from VR? 
 		Mainly Entertainement and education. 
-		This include 360 videos with 360 sound, games... It's a whole new medium, so it gives artists a new tool to express themselves. 
-		It's also very immersive, which a big advantage for learning.
+		This include 360 videos with 360 sound or games... It's a whole new medium, so it gives artists a new tool to express themselves. 
+		It's also very immersive, which a big advantage for learning. When you have fun you learn better.
 	- Who can build VR experiences? 
-		Pretty much everyone, specially if you just use a 360 camera. 
-		After, people with background in the gaming industry and 3D modeling or in film making will have a good head start, because VR is a lot about content. 
-		But they will have to take many new factors in consideration, because building an experience for VR is a lot different than building it for TV or computer screen.
+		Pretty much everyone, specially if you just use a 360 camera. Then you just have to upload it to Youtube. 
+		After, people with background in the gaming industry and 3D modeling or in film making will have a good head start, 
+		because VR is a lot about content: You need to create a virtual environment. 
+		But they will have to take many new factors into consideration, 
+		because building an experience for VR is a lot different than building it for TV or computer screen.
 	- When VR?
 		Well, VR is not a new concept, there as been many attempt at building VR hardware like the headsets we use today. 
 		But the technology is just starting to be good enough for consumer products, because it's now both affordable and efficent. 
@@ -72,12 +74,14 @@ Now let's see why Cardboard and why Unity?
 	The documentation is great, the tutorials are awesome and the tool itself very powerful. 
 	One more important point: both Unreal Engine and Unity are free to use (until you want to monetize your apps).
 	
+	By the way, this is the Plastic Cardboard, which is Google brand new "actual reality" headset. They made an interesting video about it if you want to check.
+	
 * MUST KNOW *
 Let's go into the heart of the subject: What do you need to know before you start?
 	Here I will focus mainly on 3D content. 
 	By this I mean that I will not talk much about 360 videos. 
 	Not that they are not an important part of VR, but my researches are more about environments you can walk in, and you can't walk around in a video.
-	Anyway, most of those rules will also apply to 360 videos.
+	Anyway, some of those rules will also apply to 360 videos.
 	VR is a new world, it has some common ground with the one we know, but it also has new unique rules. 
 	And if you don't take them into account your experience will greatly suffer from it.
 	A lot of those rules are due to cybersickness. 
@@ -101,65 +105,60 @@ Cybersickness:
 	But with the VR roller coaster you are just sitting there, relaxed, no acceleration, no shaking, you are not moving at all. 
 	It's the other way around, Your eyes tell to your brain that you are moving, but your body tells "nope, just chillin' in the sofa!".
 	Sensibility to VR sickness vary greatly between individuals, from what I saw people that are use to play video games are less subject to it. 
-	Also, from what I experienced, it seems that VR sickness is deeeply linked to the perception of self. I will go back on this later.
+	Also, from what I experienced, it seems that VR sickness is deeply linked to the perception of self. I will go back on this later.
+
+What can cause cybersickness?
+	Those are the "easy ones" because they have already mainly be solved for you. 
+	Low FPS means that you need to optimize your apps, but computers are becoming more powerful each day.
+	Image latency means that the hardware must be fast enough. When I rotate my head the image must update instantaneously, not half a second later. This work fine already. 
+	And bad Field Of View is an interesting on. Your FOV is basicaly the max angle at which you see things around you. And your virtual FOV must mach you real FOV. Which is already taken care of for you.
+	I once tried to force the FOV to a wrong value, just to test, and when you move you feel like you are completely drunk. It's very wierd.
+	Here you have an example of 60 degrees FOV and 120 FOV. For the same distance the result is completely different.
 	
-	If you start feeling sick, even just a little, you should stop right away and take a break. 
-	For some people the effects can last for several hours or even days after they go out of VR if they force themself.
-	Luckily you get use to it if you use it regularly. 
-	But it's important to make the user (especially if he is new to VR) understand that he should stop at the first sign of sickness! 
-	Else he might associated the simple view or smell of the headset with sickness, which will turn I'm completely from VR. 
-	And that's why it's dangerous to VR.
+	Now here you have causes that are harder to fix, because they directly impact the gameplay. 
+	Meaning that there are thing that you would do in a normal game that won't work well in VR.
+
+
+		Moving virtually but not physically. Like when you walk arond in a game using the controller.
+		Being moved virtually. Imagine a giant hand in the game that take you and lift you somewhere else. This would make you feel sick.
+		Moving your head virtually (using the controller stick) would make you feel sick because it's not a normal motion.
+		Being physically touched by someone when you don't expect it
+		Someone physically talking to you when you are in VR (you don't see him in the VR environment)
+		Physically touch something (table, chair...) that you don't see in the virtual environment
+		Will virtually moving being stop by something you don't see (invisible wall)
+		=> Everything that breaks the illusion. Your brain becomes confused because what you senses tell him doesn't add up
+		
+Walk arounds:
+	Avoid having the user move virtually but not physically
+		Don't move him yourself (without warning)
+		Don't make him fall (this include jumping)
+		Don't allow him to use the joystick to virtually look around => Not an issue with cardboard right now.
+		For other platform like oculus just disable this kind of movement. What you can do instead is have a button to pan the head from 30 degrees increment. This is fine.
+		Teleportation is fine
+	Use third person camera instead of first person
+	If moving move slowly. Set a slow walk speed.
+	Have the user disconnect from his perception of self? 
+		This is a very interesting idea we are exploring right now at Tengio:
+		Cybersickness seems deeply link to the perception of self. 
+		When something happens that breaks the illusion your brain is confused because he think that something unusual happened to you. And it makes you feel sick.
+		Maybe it's possible to reduce or remove the sickness by having the user understand that's it's not his body in the virtual world.
+		This way, if something unusual or unexpected happen to is virtual avatar he will not fell sick because he will understand 
+		that it didn't actually happened to him, but to something else he is observing.
+		A colleague and I are working on a project to test this hypothesis. 
+		We want to create a VR experience in which we disconnect the users perception of self from their virtual avatar by using naratives and context. 
+		For example tell them that their headset is actually a remote to control a robot somewhere else 
+		So they are not seeing the world from their own eyes but from a robot sensors. 
+		And whatever weird happen to this robot is only happening to it, not to them. Hence the disconnection from self.
+		We don't know yet if this theory is right but we hope to find soon.
+		And warn your users!
+		If you start feeling sick, even just a little, you should stop right away and take a break, and this is very important. 
+		For some people, if they force themselves the effects can last for several hours or even days after they go out of VR.
+		And some may associated the simple view or smell of the headset with sickness, which will turn them completely away from VR. 
+		And that's why it's dangerous to VR.
+		Luckily you get use to it if you use it regularly. 
+		So, slow and steady! And you will be fine.
+
 	
-	What can cause cybersickness?
-		Those are the "easy ones" because they have already mainly be solved for you. 
-		Low FPS means that you need to optimize your apps, but computers are becoming more powerful each day.
-		Image latency means that the hardware must be fast enough. When I rotate my head the image must update instantaneously, not half a second later. This work fine already. 
-		And bad Field Of View is an interesting on. Your FOV is basicaly the max angle at which you see things around you. And your virtual FOV must mach you real FOV. Which is already taken care of for you.
-		I once tried to force the FOV to a wrong value, just to test, and when you move you feel like you are completely drunk. It's very wierd.
-		Here you have an example of 60 degrees FOV and 120 FOV. For the same distance the result is completely different.
-		
-		Now here you have causes that are harder to fix, because they directly impact the gameplay. 
-		Meaning that there are thing that you would do in a normal game that you simply can't do in VR
-
-
-			Moving virtually but not physically
-			Being moved virtually
-			Looking around virtually (using the controller stick)
-			Being physically touched by someone when you don't expect it
-			Someone physically talking to you when you are in VR (you don't see him in the VR environment)
-			Physically touch something (table, chair...) that you don't see in the virtual environment
-			Will virtually moving being stop by something you don't see (invisible wall)
-			=> Everything that breaks the illusion. Your brain become confused because what you senses tell him doesn't add up
-			
-	Walk arounds:
-		Avoid having the user move virtually but not physically
-			Don't move him yourself (without warning)
-			Don't make him fall (this include jumping)
-			Don't allow him to use the joystick to virtually look around => Not an issue with cardboard right now.
-			Teleportation is fine
-		Use third person camera instead of first person
-		If moving move slowly. Set a slow walk speed.
-		Have the user disconnect from his perception of self? 
-			This is a very interesting idea we are exploring right now at Tengio:
-			Cybersickness seems deeply link to the perception of self. 
-			When something happen that break the illusion your brain is confused because he think that something unusual happened to you. And it makes you feel sick.
-			Maybe it's possible to reduce or remove the sickness by having the user understand that's it's not his body in the virtual world.
-			This way, if something unusual or unexpected happen to is virtual avatar he will not fell sick because he will understand 
-			that it didn't actually happened to him, but to something else he is observing.
-			A colleague and I are working on a project to test this hypothesis. 
-			We want to create a VR experience in which we disconnect the users perception of self from their virtual avatar by using naratives and context. 
-			For example tell them that their headset is actually a remote to control a robot somewhere else 
-			So they are not seeing the world from their own eyes but from a robot sensors. And whatever weird happen to this robot is only happening to it, not to them.
-			We don't know yet if this theory is right but we hope to find soon.
-			And warn your users!
-			If you start feeling sick, even just a little, you should stop right away and take a break, and this is very important. 
-			For some people, if they force themselves the effects can last for several hours or even days after they go out of VR.
-			And some may associated the simple view or smell of the headset with sickness, which will turn them completely from VR. 
-			And that's why it's dangerous to VR.
-			Luckily you get use to it if you use it regularly. 
-			So, slow and steady! And you will be fine.
-
-		
 User interface: 
     In video games you usualy display additional information (lifes, ammo...) on top of the main image.
     This kind of UI is called non-diegetic (because it's not part of the game world).
@@ -177,30 +176,37 @@ User interface:
             
             
 Single button controller:
+	Because yes: with cardboard you only got one button.
     You will have to think twice about how the user will interact with it's surrounding.
     You can have special objects in your game that will produce a certain action if clicked on (and override the main action if any).
     You can use the gaze as a trigger: when the user looks at a menu or object for 3 or 5 seconds you trigger the action. 
     In the mean time you display a progress bar to let the user know something is happening.
     Think twice before using this gaze trigger, it will annoy the user if an event triggers when he just wants to look at something.
-    The zone of the menu or object that is used as trigger can only be a small part of it, like the bottom right corner for example. 
+    The zone of the menu or object that is used as trigger can be only a small part of it, like the bottom right corner for example. 
     This way the user can read whatever is written without triggering something by mistake.
-    You can also use the rotation of the head. If I tilt my head on the right it can be used as a trigger. And same on the left.
+    You can also use the tilt of the head. If I tilt my head on the right it can be used as a trigger.
 
 Future of VR?:  
-	What will the future of VR look like? This is mainly wild guesses and speculations based on what I saw so far at the events I attended. But it might gives an idea.
-	In the near future we will see a lot of 360 videos based content and a lot of games. Like 360 videos and sound of a concert. Or virtual tourism. 
+	What will the future of VR look like? This is mainly wild guesses and speculations based on what I saw and read so far. But it might gives an idea.
+	In the near future we will see a lot of 360 videos based content and a lot of games. Like 360 video and sound of a concert. Or virtual tourism. 
+	This image here is yet an other remake of the Time 2015 cover. And this image goes very well with the title: "the surprizing joy of virtual reality".
+	And it points out that videos can be of many kind, and one specific part of the movie industry is seeing a lot of potential into VR and investing heavily into it.
 	We will also see a lot of new hardware, and a convergence with augmented reallity. 
-	What about the far future? Here we can only dream and wonder.
+	Here is a picture of Google Daydream hardware. The controller will add a lot to the cardboard, because you will not be limited to one button anymore.
+	But what I find even more interesting is this concept of Daydream Ready phones, that have pass a "VR quality check". 
+	This way people will know which hardware they can use for VR, and they won't think that VR is bad because they tested it on a device that is not powerful enough.
+	We still have to see more phones getting Google "ceal of approval" thought.
+	And what about the far future? Here we can only dream and wonder.
 	Will we end with a USB connection directly to our brain? 
 	Will we have some kind of non intrusive holodeck technology?
-    Science fiction has not been waiting until now to propose some scenari, only time will tell I guess.
+    Science fiction has not been waiting for us to propose some scenarios, only time will tell I guess.
     
 Cute kitten:
 	As promised, here is a picture of a cute kitten (and a cardboard). You my ask "WHY?!". The answer is "Because."
 	And now, as we are here drowning in an incredible level of cuteness, let me summarize on last time:
 		VR is a new and unexplorered world, full of danger and oportunities.
 		So go out there and explore it, create, shape the future of VR. 
-		You will need to be smart to cross the controller and UI gap, 
+		You will need to be smart to cross the single button and UI gap, 
 		and you will have to be careful to avoid the quicksand of cybersickness.
 		But this new and uncharted territory is full of treasures that we have yet to discover. 
 		So, let's find them!
