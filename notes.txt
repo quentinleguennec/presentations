@@ -42,15 +42,15 @@ Now let's speak about VR:
 		because VR is a lot about content: You need to create a virtual environment. 
 		But they will have to take many new factors into consideration, 
 		because building an experience for VR is a lot different than building it for TV or computer screen.
-	- When VR?
-		Well, VR is not a new concept, there as been many attempt at building VR hardware like the headsets we use today. 
-		But the technology is just starting to be good enough for consumer products, because it's now both affordable and efficent. 
-		So VR is right between possible and done, which means it's the right moment to start adventuring and shape the future of VR.
-		Here you have the cover of popular science 1993, which remember us that the subject is not really new.
-		And there the cover of the time 2015, and whoever designed this cover was clearly in lack of imagination.
-		But as the evolution of VR shown us, we can makes things a lot better. 
-		And a lot cooler.
-		VR has been evolving for years, and their is no reason it should not keep evolving in the future.
+		- When VR?
+			Well, VR is not a new concept, there as been many attempt at building VR hardware like the headsets we use today. 
+			But the technology is just starting to be good enough for consumer products, because it's now both affordable and efficent. 
+			So VR is right between possible and done, which means it's the right moment to start adventuring and shape the future of VR.
+			Here you have the cover of popular science 1993, which remember us that the subject is not really new.
+			And there the cover of the time 2015, and whoever designed this cover was clearly in lack of imagination.
+			But as the evolution of VR shown us, we can makes things a lot better. 
+			And a lot cooler.
+			VR has been evolving for years, and their is no reason it should not keep evolving in the future.
 	- why VR?
 		If I could only give one reason it would be the following: because it's awesome! 
 		But also because it allows a whole new level of immersion, and with it we can do things that we simply couldn't do before. 
@@ -123,14 +123,14 @@ What can cause cybersickness?
 	Meaning that there are thing that you would do in a normal game that won't work well in VR.
 
 
-		Moving virtually but not physically. Like when you walk arond in a game using the controller.
-		Being moved virtually. Imagine a giant hand in the game that take you and lift you somewhere else. This would make you feel sick.
-		Moving your head virtually (using the controller stick) would make you feel sick because it's not a normal motion.
-		Being physically touched by someone when you don't expect it
-		Someone physically talking to you when you are in VR (you don't see him in the VR environment)
-		Physically touch something (table, chair...) that you don't see in the virtual environment
-		Will virtually moving being stop by something you don't see (invisible wall)
-		=> Everything that breaks the illusion. Your brain becomes confused because what you senses tell him doesn't add up
+	Moving virtually but not physically. Like when you walk arond in a game using the controller.
+	Being moved virtually. Imagine a giant hand in the game that take you and lift you somewhere else. This would make you feel sick.
+	Moving your head virtually (using the controller stick) would make you feel sick because it's not a normal motion.
+	Being physically touched by someone when you don't expect it
+	Someone physically talking to you when you are in VR (you don't see him in the VR environment)
+	Physically touch something (table, chair...) that you don't see in the virtual environment
+	Will virtually moving being stop by something you don't see (invisible wall)
+	=> Everything that breaks the illusion. Your brain becomes confused because what you senses tell him doesn't add up
 		
 Walk arounds:
 	Avoid having the user move virtually but not physically
@@ -218,6 +218,7 @@ Cute kitten:
 		Thank you for your attention.
 		For those that are interested I started to write a serie of blog posts on VR with cardboard and Unity. 
 		There are 2 of them so far and I plan to add more in the future.
+		They are avalaible on our website.
             
     Ref:
     https://www.google.com/get/cardboard/plastic/
