@@ -1,0 +1,16 @@
+
+Talk done on the flight, Most of the notes are missing.
+
+Slide 1:
+--------
+	Akshay:
+	Hi, I’m Akshay one of the founders of Tengio and this is Quentin, he heads up the VR development at Tengio. Tengio build apps, mainly b2c apps, my co founder and I have been building apps since 2009 and at Tengio we’ve worked with companies such as Gumtree, Groupon, Depop, Monzo….
+
+	Over the last few couple of years we’ve dabbled with emerging tech such as working with Drones, IOT and in the last year we’ve spent a considerable amount of time working  on a VR service for property developers, architects and possibly retail.
+
+Slide 3:
+--------
+	A/B testing is widely used for apps or website. For example if you have a website and you want to improve your users experience, you create a second version of the website with only slight variations, like change the position of a button for example. Then you secretly divert part of your users to use this new version, and you see which group had the best experience. For example if they are suppose to click on the button see which group had the most clicks.
+	And you can iterate from there.
+	
+	
